@@ -1,0 +1,15 @@
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\bin\Debug\SetTool.exe.config
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\bin\Debug\SetTool.exe
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\bin\Debug\SetTool.pdb
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.MainForm.resources
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.exe
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.pdb
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\bin\Debug\Newtonsoft.Json.dll
+d:\documents\visual studio 2013\Projects\SetTool\SetTool\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2013\Projects\SetTool\SetTool\obj\Debug\SetTool.Confirm.resources
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\bin\Debug\SetTool.exe.config
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Debug\SetTool.exe
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Debug\SetTool.pdb
