@@ -10,3 +10,14 @@ D:\Documents\Visual Studio 2013\Projects\SetTool\SetTool\obj\Release\SetTool.Pro
 D:\Documents\Visual Studio 2013\Projects\SetTool\SetTool\obj\Release\SetTool.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2013\Projects\SetTool\SetTool\obj\Release\SetTool.exe
 D:\Documents\Visual Studio 2013\Projects\SetTool\SetTool\obj\Release\SetTool.pdb
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\bin\Release\SetTool.exe.config
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Release\SetTool.exe
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Release\SetTool.pdb
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\bin\Release\SetTool.exe
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\bin\Release\SetTool.pdb
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\bin\Release\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Release\SetTool.Confirm.resources
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Release\SetTool.MainForm.resources
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Release\SetTool.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\SetTool\GatewaySetTool\SetTool\obj\Release\SetTool.csproj.GenerateResource.Cache
